@@ -1,0 +1,34 @@
+{
+    "xp1": [
+        "january",
+        "march",
+        "may",
+        "july",
+        "september",
+        "november"
+    ],
+    "xp2": [
+        "january",
+        "april",
+        "july",
+        "october"
+    ],
+    "xp3": [
+        "february",
+        "august"
+    ],
+    "xp4": [
+        "january",
+        "february",
+        "march",
+        "april",
+        "may",
+        "june",
+        "july",
+        "august",
+        "september",
+        "october",
+        "november",
+        "december"
+    ]
+}
