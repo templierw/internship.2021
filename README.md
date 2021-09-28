@@ -1,6 +1,6 @@
 # Internship 2021
 
-This internship, conducted at the [SYREL](https://g2elab.grenoble-inp.fr/en/research/syrel) of the G2ELab (Université Grenoble-Alpes), lasted from February to July 2021. It was part of a research project course of my first year as a graduate student in [MoSIG](https://mosig.imag.fr/ProgramEn/M1S2). My supervisors were [Vincent Debusschere](https://g2elab.grenoble-inp.fr/fr/le-laboratoire/debusschere-vincent) and Rémy Rigo-Mariani.
+This internship, conducted at the [SYREL](https://g2elab.grenoble-inp.fr/en/research/syrel) cluster of the G2ELab (Université Grenoble-Alpes), lasted from February to July 2021. It was part of a research project course of my first year as a graduate student in [MoSIG](https://mosig.imag.fr/ProgramEn/M1S2). My supervisors were [Vincent Debusschere](https://g2elab.grenoble-inp.fr/fr/le-laboratoire/debusschere-vincent) and Rémy Rigo-Mariani.
 
 To validate the internship, a report (`templier_report_cor_ext.pdf`) was submitted and followed by a defense (slides included in `paper.tar.gz`).
 
